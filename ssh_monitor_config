@@ -1,0 +1,7 @@
+maxattempts: 3
+timeout_year: 0
+timeout_month: 0
+timeout_day: 0
+timeout_hour: 0
+timeout_minute: 0
+timeout_second: 150
